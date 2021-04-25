@@ -27,7 +27,7 @@ public class Complex {
      * @param imaginary imaginary part of Complex
      */
     public Complex(int real, int imaginary){
-        // add something to make conflict
+        // testing comment
         this.real = real;
         this.imaginary = imaginary;
     }
